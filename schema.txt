@@ -11,7 +11,7 @@ eircode: STR
 description: TEXT
 price: INT
 bedroom: INT
-bathrooms: INT
+bathrooms: FLOAT
 garage: INT [0]
 square_meters: INT
 lot_size: FLOAT
