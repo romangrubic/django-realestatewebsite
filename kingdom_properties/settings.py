@@ -137,6 +137,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
 # Messages
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
+
 MESSAGE_TAGS = {
     messages.ERROR: 'danger'
 }
