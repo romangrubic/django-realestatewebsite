@@ -1,1 +1,1 @@
-web: gunicorn django-realestatewebsite.wsgi:application
+web: gunicorn kingdom_properties.wsgi:application
