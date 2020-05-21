@@ -66,6 +66,9 @@ img {
 #work {
   padding: 6rem 0; }
 
+#dashboard {
+    min-height: 60vh;
+}
 .listing-preview a {
   position: relative; }
 
